@@ -1,0 +1,6 @@
+c:\users\suzy\source\repos\MVC_Aplication\BLL\bin\Debug\BLL.dll
+c:\users\suzy\source\repos\MVC_Aplication\BLL\bin\Debug\BLL.pdb
+c:\users\suzy\source\repos\MVC_Aplication\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+c:\users\suzy\source\repos\MVC_Aplication\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+c:\users\suzy\source\repos\MVC_Aplication\BLL\obj\Debug\BLL.dll
+c:\users\suzy\source\repos\MVC_Aplication\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,9 @@
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\bin\Debug\DAL.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\bin\Debug\DAL.pdb
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\obj\Debug\DAL.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\DAL\obj\Debug\DAL.pdb

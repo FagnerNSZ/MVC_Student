@@ -1,0 +1,12 @@
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\ENTITY.dll.config
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\ENTITY.dll
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\ENTITY.pdb
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\obj\Debug\ENTITY.dll
+c:\users\suzy\source\repos\MVC_Aplication\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\System.Security.Permissions.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\ENTITY\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Suzy\source\repos\MVC_Aplication\ENTITY\obj\Debug\ENTITY.csproj.CopyComplete
